@@ -1,4 +1,5 @@
 # project
+A Vue.js based Web Application that helps a student find a perfect coach for his Studies. Used firebase as backend to authenticate user login/signup and many other features like waiting bar, restricted requests etc.
 
 ## Project setup
 ```
